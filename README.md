@@ -16,15 +16,6 @@ Postman veya benzeri araçlarla kolayca test edilebilir.
 # Projeyi çalıştırmak için:
 mvn spring-boot:run
 
-Uygulama varsayılan olarak **http://localhost:8080** adresinde çalışır.
-
-## 📌 Örnek Endpoint’ler
-- `GET /employees` → Tüm çalışanları getir  
-- `POST /employees` → Yeni çalışan ekle  
-- `GET /employees/{id}` → ID’ye göre çalışan getir  
-- `PUT /employees/{id}` → Çalışan güncelle  
-- `DELETE /employees/{id}` → Çalışan sil  
-
 ---
 
 # ☕ Spring Boot CRUD Project (EN)
@@ -46,10 +37,3 @@ It can be tested using Postman or similar tools.
 mvn spring-boot:run
 
 The application runs on **http://localhost:8080** by default.
-
-## 📌 Example Endpoints
-- `GET /employees` → Get all employees  
-- `POST /employees` → Add a new employee  
-- `GET /employees/{id}` → Get employee by ID  
-- `PUT /employees/{id}` → Update employee  
-- `DELETE /employees/{id}` → Delete employee  
