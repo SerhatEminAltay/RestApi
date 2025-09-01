@@ -12,10 +12,6 @@ Postman veya benzeri araçlarla kolayca test edilebilir.
 - **dto/** → Veri transfer nesneleri  
 - **exception/** → Özel hata sınıfları  
 
-## 🔧 Çalıştırma
-# Projeyi çalıştırmak için:
-mvn spring-boot:run
-
 ---
 
 # ☕ Spring Boot CRUD Project (EN)
@@ -31,9 +27,3 @@ It can be tested using Postman or similar tools.
 - **entity/** → Classes representing database tables  
 - **dto/** → Data Transfer Objects  
 - **exception/** → Custom exception classes  
-
-## 🔧 How to Run
-# Run the project
-mvn spring-boot:run
-
-The application runs on **http://localhost:8080** by default.
